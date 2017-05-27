@@ -1,0 +1,2 @@
+\\Version one of the paper scissors rock game.
+prompt("Please choose paper, scissors or rock:")
